@@ -10,7 +10,7 @@
 	 char op; 
 	 public calculator()
 	 {
-		 super("Calulator");
+		 super("Calculator");
 		 JFrame frame = new JFrame();
 		 setLayout(new BorderLayout());
 		 JPanel p=new JPanel();
